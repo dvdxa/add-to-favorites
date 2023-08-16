@@ -3,8 +3,8 @@ API allows users who monitor terminals, to add/remove terminals to/from favorite
 
 ## Installation
 To install this App, follow these steps:
-1.Clone the repository
-2.Install required dependencies
+1. Clone the repository
+2. Install required dependencies
 3. Set up the database(postgres) and configure it
 
 ## Usage
